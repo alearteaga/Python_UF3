@@ -1,0 +1,2 @@
+1234|nuevo libro|Alessandro
+5678|pirineus|sistema
